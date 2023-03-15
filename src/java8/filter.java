@@ -1,3 +1,5 @@
+Write a  java program to print the city  name  starting with  "t". 
+**********************************************************************
 package java8;
 import java.util.*;
 import java.util.stream.Collector;
