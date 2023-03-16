@@ -1,3 +1,5 @@
+Program to implement arraylist operations.
+******************************************	
 package collection;
 import java.util.*; 
 
