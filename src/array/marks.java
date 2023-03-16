@@ -1,3 +1,5 @@
+Program to print total marklist of the Students.
+************************************************	
 package array;
 
 public class marks {
