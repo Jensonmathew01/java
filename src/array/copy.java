@@ -1,3 +1,5 @@
+Program to print positive and negative numbers in a given array and insert values into separate arrays.
+********************************************************************************************************	
 package array;
 
 import java.util.Arrays;
