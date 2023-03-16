@@ -1,3 +1,5 @@
+Java 8 program to find square of even numbers in the given list.
+**********************************************************************	
 package java8;
 import java.util.*;
 import java.util.stream.Collector;
