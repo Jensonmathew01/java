@@ -1,3 +1,5 @@
+Program to implement the bank function.
+*****************************************	
 package Bank;
 import java.io.BufferedReader;
 import java.io.IOException;
