@@ -1,3 +1,5 @@
+Program to perform hashmap operations.
+**************************************	
 package collection;
 import java.util.*;
 public class hashmap {
