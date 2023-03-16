@@ -1,3 +1,5 @@
+Program to check whether a number is lucky or not.
+***************************************************	
 package array;
 
 import java.util.Scanner;
