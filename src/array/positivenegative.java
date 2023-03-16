@@ -1,3 +1,5 @@
+Program to find total number of positive and negative numbers in a given list.
+******************************************************************************	
 package array;
 
 public class positivenegative {
