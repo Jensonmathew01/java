@@ -1,3 +1,5 @@
+Program to find sum of elements of a given list.
+***********************************************	
 package array;
 import java.util.*;
 public class sum {
