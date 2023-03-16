@@ -1,3 +1,5 @@
+Program to find maximum element of the given list.
+**************************************************	
 package array;
 import java.util.*;
 
