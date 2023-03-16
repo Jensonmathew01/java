@@ -1,3 +1,4 @@
+Program to find common elements in two hashsets.
 package collection;
 import java.util.*;
 public class common {
