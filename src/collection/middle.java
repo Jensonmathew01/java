@@ -1,3 +1,5 @@
+Program to find middle elements of the given linkedlist.
+********************************************************	
 package collection;
 import java.util.*;
 public class middle {
