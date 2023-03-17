@@ -1,3 +1,5 @@
+Program to print pascal series of a given input.
+************************************************    
 package collection;
 import java.util.ArrayList;
 
