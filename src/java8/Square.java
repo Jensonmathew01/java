@@ -1,3 +1,5 @@
+Java8 program to find square of arraylist elements.
+***************************************************	
 package java8;
 import java.util.*;
 import java.util.stream.Collector;
