@@ -1,3 +1,5 @@
+Program to find number of words present in the file.
+****************************************************	
 package file;
 import java.util.*;
 import java.io.BufferedReader;
