@@ -1,3 +1,5 @@
+Program to read data from the file.
+***********************************	
 package file;
 import java.io.FileInputStream;
 public class output { 
