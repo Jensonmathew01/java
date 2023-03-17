@@ -1,3 +1,5 @@
+Java8 program to print unique words in an arraylist.
+****************************************************	
 package java8;
 import java.util.*;
 import java.util.stream.Collectors;
