@@ -1,3 +1,5 @@
+Java8 program to print count of each words in the arraylist.
+************************************************************	
 package java8;
 import java.util.*;
 import java.util.function.Function;
