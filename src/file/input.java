@@ -1,3 +1,5 @@
+Program to write data into file.
+********************************	
 package file;
 import java.io.FileOutputStream;
 public class input { 
