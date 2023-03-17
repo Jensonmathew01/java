@@ -1,3 +1,5 @@
+Program to print elements of array whose sum is 25.
+**************************************************	
 package collection;
 import java.util.*;
 public class target {
