@@ -1,3 +1,5 @@
+Program to perform hashmap operation.
+*************************************	
 package collection;
 import java.util.*;
 public class multiplehashmap {
